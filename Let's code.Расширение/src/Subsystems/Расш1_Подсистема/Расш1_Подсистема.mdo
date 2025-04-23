@@ -5,6 +5,7 @@
     <key>ru</key>
     <value>Подсистема</value>
   </synonym>
+  <comment>vbgbf</comment>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
 </mdclass:Subsystem>

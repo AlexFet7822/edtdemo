@@ -43,5 +43,6 @@
     <languageCode>ru</languageCode>
   </languages>
   <subsystems>Subsystem.Расш1_Подсистема</subsystems>
+  <subsystems>Subsystem.Расш1_Подсистема1</subsystems>
   <roles>Role.Расш1_ОсновнаяРоль</roles>
 </mdclass:Configuration>
